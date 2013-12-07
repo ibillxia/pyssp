@@ -8,10 +8,7 @@
 
  This project is mainly about speech/signal processing methods writting in Python.
  
- The 'TimeDomain' directory contains very simple but vital speech/signal processing methods in
-time domain, such as volume calculation, Zero-Cross-Ratio, Voice-Active-Detection, Pitch Tracking, 
-etc. There are also some simple testing code to show how to use these functions. For the basic theory,
-you can refer to the website given in the code header or visit my blog for more details.
+ The 'TimeDomain' directory contains very simple but vital speech/signal processing methods in time domain, such as volume calculation, Zero-Cross-Ratio, Voice-Active-Detection, Pitch Tracking, etc. There are also some simple testing code to show how to use these functions. For the basic theory, you can refer to the website given in the code header or visit my blog for more details.
  
  
  Copyright (C) 2013 Bill Xia (ibillxia@gmail.com) 
